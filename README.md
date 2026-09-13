@@ -63,3 +63,4 @@ Minha experiência combina conhecimento do negócio, análise de dados e automa�
 Tenho interesse em trocar experiências sobre Engenharia de Dados, Analytics, Azure, Databricks e aplicações de dados em Supply Chain.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Caneca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-caneca/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-28A7FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://soba-jopeca.github.io)
